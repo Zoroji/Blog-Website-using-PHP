@@ -1,0 +1,28 @@
+navbar
+    home.html
+    upload
+    login/register
+register 
+login in 
+db users {userId,uname,upass}
+db blog {blogId,blogImg,blogHeading,blogContent,uploaded_by} 
+readBlog.php
+update
+delete
+
+update user with a profile pic 
+add profilepic in blog
+update categories in blog
+more post section from a author 
+search 
+learn card slider
+view and likes
+sort by view and likes
+featured section
+login dropdown with user details
+
+
+navbar color
+hero section
+latest blog
+navbar color change
